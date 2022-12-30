@@ -1,0 +1,6 @@
+2022-12-26 21:36:04,426 WARNING handshake.first_handshake is_regist code wrong!
+2022-12-26 21:36:04,427 INFO 192.168.31.230 - - [26/Dec/2022 21:36:04] "POST /handshake/first HTTP/1.1" 200 -
+2022-12-26 21:36:06,685 WARNING handshake.first_handshake is_regist code wrong!
+2022-12-26 21:36:06,686 INFO 192.168.31.230 - - [26/Dec/2022 21:36:06] "POST /handshake/first HTTP/1.1" 200 -
+2022-12-26 21:36:21,006 WARNING handshake.first_handshake is_regist code wrong!
+2022-12-26 21:36:21,006 INFO 192.168.31.230 - - [26/Dec/2022 21:36:21] "POST /handshake/first HTTP/1.1" 200 -
